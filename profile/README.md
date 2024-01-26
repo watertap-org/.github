@@ -6,3 +6,5 @@ research community with an integrated modeling and simulation capability to cons
 tradeoffs across water treatment options and identify high impact opportunities for innovation including novel materials, processes,
 and networks. Water-TAP uses open-source models and data indexed in the Water Data and Analysis Management Systems (Water DAMS) platform,
 NAWI’s primary data repository.
+
+[Online documentation](https://watertap.readthedocs.io/)
